@@ -10,6 +10,7 @@ NOTE: This file contains Page Title CSS.
        page-title
 **************************************/
 .page-title { display: block; padding-top:250px; padding-bottom: 100px; position: relative; }
+.page-title-single-portfolio{display: block; padding-top:150px; padding-bottom: 150px; position: relative;}
 .page-title.bg-overlay-black-60:before  { z-index: 0; }
 .page-title .container { height: 100%; position: relative; }
 .page-title span { text-transform: capitalize; }
