@@ -3,3 +3,21 @@
 	display: block;
 	margin: 0 auto;
 }
+.page-title-text-writing h1{
+	font-size: 100px;
+	color: #FFF;
+}
+.page-title-text-writing .typer{
+	color: #ed7723 !important;
+	
+}
+.page-title-text-writing h1 span.vertical {
+    color: #ffffff;
+    font-size: 50px;
+    display: inline-block;
+    transform: rotate(-90deg);
+    line-height: 50px;
+    position: relative;
+    top: -11px;
+    left: -20px;
+}

@@ -84,12 +84,9 @@
 					<div class="row justify-content-end vertical-align">
 						<div class="col-lg-8 portfolio-03-about">
 							<div class="row">
-								<h3 class="mb-30 text-white">I have more than 9 years of experience in the field of Graphic/ E-Learning/Web Designing.</h3>
-							</div>
-							<div class="row">
 								
 								<div class="col-lg-7 col-sm-6">
-
+									<h3 class="mb-30 text-white">I have more than 9 years of experience in the field of Graphic/ E-Learning/Web Designing.</h3>
 									<p class="text-white">Specialized in Adobe web & graphic designing tools and also in other tools. Professional in Corporate branding, Graphic designing, Web Designing, visualization, GUI, graphics & animations for e-learning, illustrations, web icons, logos, brochures, posters etc.</p>
 									<div class="social-icons color-icon clearfix mt-30">
 										<ul>
@@ -158,63 +155,7 @@
 			<!--=================================
  footer -->
 
-			<footer id="footer-fixed" class="footer footer-simple black-bg">
-				<div class="container-fluid">
-					<div class="row page-section-ptb">
-						<div class="col-lg-12 col-md-12">
-							<div class="action-box theme-bg">
-								<h3><strong> Webster: </strong> The most powerful template ever on the market</h3>
-								<a class="button button-border white" href="#">
-          <span>Purchase Now</span>
-          <i class="fa fa-download"></i>
-       </a>
-							
-
-							</div>
-						</div>
-					</div>
-					<div class="row page-section-pb">
-						<div class="col-lg-2 col-md-2 col-sm-6 sm-mb-30">
-							<img class="img-fluid" id="logo-footer" src="assets/images/logo.png" alt="">
-						</div>
-						<div class="col-lg-4 col-md-4 col-sm-6 sm-mb-30 ">
-							<ul class="addresss-info">
-								<li><i class="fa fa-map-marker"></i>
-									<p class="text-white">Address: 17504 Carlton Cuevas Rd, Gulfport, MS, 39503</p>
-								</li>
-								<li><i class="fa fa-phone"></i> <a href="tel:7042791249"> <span>+(704) 279-1249 </span> </a> </li>
-								<li><i class="fa fa-envelope-o"></i>Email: letstalk@webster.com</li>
-							</ul>
-						</div>
-						<div class="col-lg-3 col-md-4 col-sm-6 ">
-							<div class="social-icons color-icon text-social width-half clearfix xs-mb-20">
-								<ul>
-									<li class="social-facebook"><a href="#">  facebook  </a>
-									</li>
-									<li class="social-instagram"><a href="#">  instagram  </a>
-									</li>
-									<li class="social-pinterest"><a href="#">  pinterest   </a>
-									</li>
-									<li class="social-behance"><a href="#">  behance  </a>
-									</li>
-									<li class="social-twitter"><a href="#">  twitter  </a>
-									</li>
-								</ul>
-							</div>
-						</div>
-						<div class="col-lg-2 col-md-2 col-sm-6">
-							<div class="footer-useful-link clearfix">
-								<ul>
-									<li><a href="#">Create Account</a>
-									</li>
-									<li><a href="#">Company Philosophy</a>
-									</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</footer>
+			<?php include("partials/footer.php"); ?>
 
 			<!--=================================
  footer -->

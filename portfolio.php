@@ -23,8 +23,9 @@
 <div class="st-menu st-effect-1 scrollbar right-side big-side" id="menu-1">
   <div class="pos-bot">
     <ul class="menu">
-    <li><a class="active" href="#">Home </a></li>
+    <li><a class="text-white" href="#">Home </a></li>
     <li><a href="/about" class="text-white">About us</a></li>
+		<li><a href="/portfolio" class="active">Portfolio</a></li>
   </ul>
     <div class="slide-footer">
       <div class="slide-footer-content">
@@ -61,34 +62,21 @@
 
  <!--=================================
  header -->
+ <section class="page-title-single-portfolio center parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(assets/images/bg/19.jpg);">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="page-title-name">
+								<div class="page-title-text-writing">
+									<h1><span class="typer" data-delay="150" data-words="Portfolio, Works, Experiences"></span>  <span class="cursor" data-cursorDisplay="|" data-owner="some-id"></span> </h1>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
 	
-	<!--=================================
- banner -->
-
-<?php include("partials/slider-typewriting.php");?>
-<?php include("partials/skills.php"); ?>
-<!--=================================
- banner -->
-
-<!--=================================
- section -->
-
- 
-
-  <!--=================================
- section -->
-
-
-<!--=================================
- portfolio -->
-
-
-
-<!--=================================
- portfolio -->
-<?php include("partials/education.php"); ?>
-
-
+<?php include("partials/gallery.php"); ?>
  
 <!--=================================
  footer -->
