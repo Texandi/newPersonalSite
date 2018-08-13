@@ -1,4 +1,4 @@
-<footer id="footer-fixed" class="footer footer-simple theme-bg">
+<footer id="footer-fixed" class="footer footer-simple dark-blue-bg">
  <div class="container-fluid">
   <div class="row page-section-ptb">
      <div class="col-lg-12 col-md-12">
@@ -17,9 +17,9 @@
       </div>
       <div class="col-lg-4 col-sm-6 sm-mb-30">
         <ul class="addresss-info"> 
-        <li><i class="fa fa-map-marker"></i> <p class="text-white">Address: 17504 Carlton Cuevas Rd, Gulfport, MS, 39503</p> </li>
-        <li><i class="fa fa-phone"></i> <a href="tel:7042791249"> <span>+(704) 279-1249 </span> </a> </li>
-        <li><i class="fa fa-envelope-o"></i>Email: letstalk@webster.com</li>
+        <li><i class="fa fa-map-marker"></i> <p class="text-white">Via Belfiore 50/B, 10125 Turin</p> </li>
+        <li><i class="fa fa-phone"></i> <a href="tel:00393383128382"> <span>+(39) 3383128382 </span> </a> </li>
+        <li><i class="fa fa-envelope-o"></i><a href="mailto:teo.andi@gmail.com">teo.andi@gmail.com</a></li>
       </ul>
       </div>
       <div class="col-lg-3 col-sm-6">
@@ -36,8 +36,8 @@
     <div class="col-lg-3 col-sm-6">
       <div class="footer-useful-link clearfix">
         <ul>
-          <li><a href="#">Create Account</a></li>
-          <li><a href="#">Company Philosophy</a></li>
+          <li><a href="#">Bio</a></li>
+          <li><a href="#">Works</a></li>
         </ul>
       </div>
     </div>

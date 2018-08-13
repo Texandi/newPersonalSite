@@ -1,5 +1,6 @@
-<section id="skills" class="page-section-pt dark-theme-bg position-relative">
-	<div class="container">
+<section id="skills" class="dark-theme-bg position-relative">
+<div class="bg-bottom-before"></div>
+	<div class="container pt-80 pb-80">
 		<div class="row">
 			<div class="col-lg-9">
 				<div class="section-title">
@@ -13,8 +14,10 @@
 		</div>
 		<div class="row">
 
-			<div class="col-lg-3 col-md-3 col-sm-3 mb-60">
-				<img class="img-fluid mx-auto top-img" src="assets/images/about/06.png" alt="">
+			<div class="col-lg-3 col-md-3 col-sm-3 mb-60 ">
+				<div class="parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(assets/images/bg/02.jpg);">
+					
+				</div>
 
 			</div>
 			<div class="col-lg-9 col-md-9 col-sm-9">

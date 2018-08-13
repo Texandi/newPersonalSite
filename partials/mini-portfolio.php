@@ -1,5 +1,6 @@
- <section class="page-section-ptb  bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(assets/images/bg/02.jpg);">
-  <div class="container">
+ <section class="bg-overlay-black-60 parallax" data-jarallax='{"speed": 0.6}' style="background-image: url(assets/images/bg/02.jpg);">
+ <div class="bg-top-before"></div>
+  <div class="container pt-150 pb-150">
 	  <div class="row">
 			<div class="col-lg-9">
 				<div class="section-title">
@@ -37,4 +38,5 @@
 			</div>
 		</div>
   </div>
+  <div class="bg-bottom-before"></div>
 </section>

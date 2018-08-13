@@ -622,6 +622,7 @@ margin-left: -17px; line-height: 50px; }
  .theme-bg { background: #ed7723; }
  .black-bg { background: #323232; }
  .dark-theme-bg { background: #1e1e1e; }
+ .dark-blue-bg{ background: #687777;}
 
  .bg-overlay-black-10:before {  background: rgba(0, 0, 0, 0.1); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }
  .bg-overlay-black-20:before {  background: rgba(0, 0, 0, 0.2); content: ""; height: 100%; left: 0; position: absolute; top: 0; width: 100%; z-index: 0; }

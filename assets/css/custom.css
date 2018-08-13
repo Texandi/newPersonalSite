@@ -4,8 +4,10 @@
 	margin: 0 auto;
 }
 .page-title-text-writing h1{
-	font-size: 100px;
 	color: #FFF;
+	border-left: 3px solid #ed7723;
+	padding-left: 10px;
+	margin-top: 20px;
 }
 .page-title-text-writing .typer{
 	color: #ed7723 !important;
@@ -21,3 +23,8 @@
     top: -11px;
     left: -20px;
 }
+
+.bg-top-before, .bg-bottom-before { position: relative; }
+.bg-top-before:before { background-image: url(../images/bg/bg-mountain-top.png); top: -1px; background-repeat: no-repeat;  content: ""; position: absolute; height: 110px; width: 100%; }
+.bg-bottom-before:before { background-image: url(../images/bg/bg-mountain-bottom.png); bottom: -1px; background-repeat: no-repeat;  content: ""; position: absolute; height: 110px; width: 100%; }
+

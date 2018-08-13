@@ -153,7 +153,7 @@ body,
 /*.st-menu.right-side .pos-bot { bottom: inherit; }*/
 
 /* Effect 1: Slide in on top */
-.st-effect-1.st-menu.right-side { background: #444444; visibility: visible; -webkit-transform: translate3d(100%, 0, 0); -ms-transform: translate3d(100%, 0, 0); -o-transform: translate3d(100%, 0, 0); -moz-transform: translate3d(100%, 0, 0); transform: translate3d(100%, 0, 0); }
+.st-effect-1.st-menu.right-side { background: #1e1e1e; visibility: visible; -webkit-transform: translate3d(100%, 0, 0); -ms-transform: translate3d(100%, 0, 0); -o-transform: translate3d(100%, 0, 0); -moz-transform: translate3d(100%, 0, 0); transform: translate3d(100%, 0, 0); }
 .st-effect-1.st-menu-open.right-side .st-effect-1.st-menu.right-side { visibility: visible; -webkit-transform: translate3d(0, 0, 0); -moz-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); -o-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); }
 .st-effect-1.right-side.st-menu::after { display: none; }
 
