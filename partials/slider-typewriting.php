@@ -12,5 +12,4 @@
         </div>
      </div>
   </div>
-  <a class="scroll-down move" title="Scroll Down" href="#about-us"><i></i></a>
 </section>
