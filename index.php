@@ -23,9 +23,10 @@
 <div class="st-menu st-effect-1 scrollbar right-side big-side" id="menu-1">
   <div class="pos-bot">
     <ul class="menu">
-    <li><a class="active" href="#">Home </a></li>
-    <li><a href="/about" class="text-white">About us</a></li>
-		<li><a href="/portfolio" class="text-white">Portfolio</a></li>
+    <li><a href="./" class="active">Home </a></li>
+		<li><a href="./portfolio.php" class="text-white">Portfolio</a></li>
+                    <li><a href="./about.php" class="text-white">About</a>
+                    </li>
   </ul>
     <div class="slide-footer">
       <div class="slide-footer-content">
@@ -50,7 +51,7 @@
       <div class="row"> 
         <div class="col">
           <div class="logo">
-            <a href="index-01.html"> <img class="img-fluid img-small" src="assets/images/logo-icon-light.png" alt=""> </a>
+            <a href="./"> <img class="img-fluid img-small" src="assets/images/logo_white.png" alt=""> </a>
           </div>
         </div>
         <div class="col text-right">

@@ -17,7 +17,7 @@
              <div class="portfolio-item simple-effect">
                    <img src="assets/images/portfolio/masonry/01.jpg" alt="">
                     <div class="portfolio-overlay">
-                        <h4> <a href="portfolio-single-01.html"> Your title here </a> </h4>
+                        <h4> <a href="/sito_2018/adviseonly.php"> AdviseOnly </a> </h4>
                         <span> <a href="#"> Branding </a> | <a href="#"> Web Design </a> </span>             
                     </div>
                     <a class="popup portfolio-img" href="assets/images/portfolio/masonry/01.jpg"><i class="fa fa-arrows-alt"></i></a>  
@@ -27,7 +27,7 @@
             <div class="portfolio-item simple-effect">
                    <img src="assets/images/portfolio/masonry/02.jpg" alt="">
                     <div class="portfolio-overlay">
-                        <h4> <a href="portfolio-single-01.html"> Your title here </a> </h4>
+                        <h4> <a href="/sito_2018/forno.php"> Il Forno delle Idee </a> </h4>
                         <span> <a href="#"> Branding </a> | <a href="#"> Web Design </a> </span>             
                     </div>
                     <a class="popup portfolio-img" href="assets/images/portfolio/masonry/02.jpg"><i class="fa fa-arrows-alt"></i></a>  

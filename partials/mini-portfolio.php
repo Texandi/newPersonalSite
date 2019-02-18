@@ -4,7 +4,7 @@
 	  <div class="row">
 			<div class="col-lg-9">
 				<div class="section-title">
-					<h6 class="text-white">Some of my works</h6>
+					<h6 class="text-white">My works</h6>
 					<h2 class="text-white">Here is a list of my lastest works</h2>
 					<p class="text-gray">I have more than 10 years of experience in the field of Graphic / Web Designing.</p>
 				</div>

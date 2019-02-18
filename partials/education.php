@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-lg-9">
 				<div class="section-title">
-					<h6 class="text-white">My work and school experience </h6>
+					<h6 class="text-white">My experiences </h6>
 					<h2 class="text-white">Experience and Education </h2>
 					<p class="text-gray">I have more than 10 years of experience in the field of Graphic / Web Designing.</p>
 				</div>

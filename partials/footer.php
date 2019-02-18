@@ -5,7 +5,7 @@
       <div class="action-box black-bg">
         <h3><strong> Download </strong> my cv</h3>
         <a class="button button-border white" href="#">
-          <span>Purchase Now</span>
+          <span>Download</span>
           <i class="fa fa-download"></i>
        </a> 
     </div>

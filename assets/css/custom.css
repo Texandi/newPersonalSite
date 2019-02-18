@@ -1,3 +1,45 @@
+.fz-10{font-size: 10px !important;}
+.fz-11{font-size: 11px !important;}
+.fz-12{font-size: 12px !important;}
+.fz-13{font-size: 13px !important;}
+.fz-14{font-size: 14px !important;}
+.fz-15{font-size: 15px !important;}
+.fz-16{font-size: 16px !important;}
+.fz-17{font-size: 17px !important;}
+.fz-18{font-size: 18px !important;}
+.fz-19{font-size: 19px !important;}
+.fz-20{font-size: 20px !important;}
+.fz-21{font-size: 21px !important;}
+.fz-22{font-size: 22px !important;}
+.fz-23{font-size: 23px !important;}
+.fz-24{font-size: 24px !important;}
+.fz-25{font-size: 25px !important;}
+.fz-30{font-size: 30px !important;}
+.fz-35{font-size: 35px !important;}
+.fz-40{font-size: 40px !important;}
+.fz-45{font-size: 45px !important;}
+.fz-50{font-size: 50px !important;}
+
+.personal-typer-banner h1 span {
+    background: -webkit-gradient(linear, 100% 0, 0 0, from(#F7FFF7), to(#5EBFBC));
+    background: -webkit-linear-gradient(right, #F7FFF7, #5EBFBC);
+    background: -moz-linear-gradient(right, #F7FFF7, #5EBFBC);
+    background: -o-linear-gradient(right, #F7FFF7, #5EBFBC);
+    background: linear-gradient(right, #F7FFF7, #5EBFBC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2{background: -webkit-gradient(linear, 100% 0, 0 0, from(#F7FFF7), to(#5EBFBC));
+	background: -webkit-linear-gradient(right, #F7FFF7, #5EBFBC); 
+    background: -moz-linear-gradient(right, #F7FFF7, #5EBFBC); 
+    background: -o-linear-gradient(right, #F7FFF7, #5EBFBC);
+	background: linear-gradient(right, #F7FFF7, #5EBFBC);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+}
+
+
 .bg-logo img{
 	width: 33%;
 	display: block;

@@ -23,14 +23,12 @@
 
 		<div class="st-menu st-effect-1 scrollbar right-side big-side" id="menu-1">
 			<div class="pos-bot">
-				<ul class="menu">
-					<li><a class="text-white" href="#">Home </a>
-					</li>
-					<li><a href="/about" class="active">About us</a>
-					</li>
-					<li><a href="/portfolio" class="text-white">Portfolio</a>
-					</li>
-				</ul>
+    <ul class="menu">
+    <li><a href="./" class="text-white">Home </a></li>
+		<li><a href="./portfolio.php" class="text-white">Portfolio</a></li>
+                    <li><a href="./about.php" class="active">About</a>
+                    </li>
+  </ul> 
 				<div class="slide-footer">
 					<div class="slide-footer-content">
 						<p class="text-white">My name is Matteo And&oacute;. I have more than 10 years of experience in the field of Graphic / Web Designing / Data visualization.</p>
@@ -57,8 +55,8 @@
 					<div class="row">
 						<div class="col">
 							<div class="logo">
-								<a href="index-01.html"> <img class="img-fluid img-small" src="assets/images/logo-icon-light.png" alt=""> </a>
-							</div>
+            <a href="./"> <img class="img-fluid img-small" src="assets/images/logo_white.png" alt=""> </a>
+          </div>
 						</div>
 						<div class="col text-right">
 							<a href="#" class="menu-icon medium side-panel-trigger"><span class="ti-menu text-white"></span></a>
